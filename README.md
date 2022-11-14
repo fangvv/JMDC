@@ -1,4 +1,4 @@
-## FL-PQSU
+## JMDC
 
 This is the source code for our paper: **JMDC: A Joint Model and Data Compression System for Deep Neural Networks Collaborative Computing in Edge-Cloud Networks**. A brief introduction of this work is as follows:
 
@@ -6,7 +6,7 @@ This is the source code for our paper: **JMDC: A Joint Model and Data Compressio
 
 > 通过模型压缩和数据压缩来实现高效的边云网络上深度神经网络的协同计算
 
-This work will be published by JPDC,
+This work will be published by JPDC (Journal of Parallel and Distributed Computing).
 
 ## Required software
 
