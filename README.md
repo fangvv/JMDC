@@ -6,7 +6,7 @@ This is the source code for our paper: **JMDC: A Joint Model and Data Compressio
 
 > 通过模型压缩和数据压缩来实现高效的边云网络上深度神经网络的协同计算
 
-This work will be published by JPDC (Journal of Parallel and Distributed Computing).
+This work will be published by JPDC (Journal of Parallel and Distributed Computing). Click [here](https://doi.org/10.1016/j.jpdc.2022.11.008) for our paper.
 
 ## Required software
 
