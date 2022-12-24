@@ -12,6 +12,17 @@ This work will be published by JPDC (Journal of Parallel and Distributed Computi
 
 PyTorch
 
+## Citation
+    @article{ding2023jmdc,
+    title={JMDC: A joint model and data compression system for deep neural networks collaborative computing in edge-cloud networks},
+    author={Ding, Yi and Fang, Weiwei and Liu, Mengran and Wang, Meng and Cheng, Yusong and Xiong, Naixue},
+    journal={Journal of Parallel and Distributed Computing},
+    volume={173},
+     pages={83--93},
+    year={2023},
+    publisher={Elsevier}
+    }
+
 ## Contact
 
 Weiwei Fang (fangvv@qq.com)
