@@ -25,6 +25,6 @@ PyTorch
 
 ## Contact
 
-Weiwei Fang (fangvv@qq.com)
-
 Mengran Liu (18800191663@163.com)
+
+> Please note that the open source code in this repository was mainly completed by the graduate student author during his master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
