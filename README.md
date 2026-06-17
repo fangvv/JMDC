@@ -97,15 +97,17 @@ python predict.py
 ```
 ## Citation
 If you find JMDC useful or relevant to your project and research, please kindly cite our paper:
-	@article{ding2023jmdc,
-  		title={JMDC: A joint model and data compression system for deep neural networks collaborative computing in edge-cloud networks},
-  		author={Ding, Yi and Fang, Weiwei and Liu, Mengran and Wang, Meng and Cheng, Yusong and Xiong, Naixue},
-  		journal={Journal of Parallel and Distributed Computing},
-  		volume={173},
-  		pages={83--93},
-  		year={2023},
-  		publisher={Elsevier}
-	}
+```bibtex
+@article{ding2023jmdc,
+  title={JMDC: A joint model and data compression system for deep neural networks collaborative computing in edge-cloud networks},
+  author={Ding, Yi and Fang, Weiwei and Liu, Mengran and Wang, Meng and Cheng, Yusong and Xiong, Naixue},
+  journal={Journal of Parallel and Distributed Computing},
+  volume={173},
+  pages={83--93},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 	
 ## Contact
 Mengran Liu (18800191663@163.com)
