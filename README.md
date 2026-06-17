@@ -62,7 +62,7 @@ The edge/mobile client that performs collaborative DNN inference with the cloud 
 4. Run local layers on the edge device, then send intermediate features to the cloud.
 5. Receive results from the cloud and compute final accuracy and latency.
 
-**Partition vector example:** `x = [0,1,0,1,1,1,0,0,0,1,1,1,1]` — layer 0 runs on cloud, layer 1 on edge, layer 2 on cloud, etc.
+
 ### Quantification (`Quantification.py`)
 A quantization module that compresses intermediate feature data before transmission to reduce communication overhead. Supports configurable bit-width quantization:
 | Function | Description |
