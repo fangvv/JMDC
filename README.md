@@ -98,6 +98,10 @@ python initMobile.py --refine <path_to_checkpoint> --arch <alexnetlayer|vgg16lay
 cd cloud  # or cd mobile
 python predict.py
 ```
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 If you find JMDC useful or relevant to your project and research, please kindly cite our paper:
 ```bibtex
